@@ -3,7 +3,6 @@ markdown: kramdown
 
 plugins:
   - jekyll-sitemap
-  - jekyll-pdf-embed
 
 name: Rhian C. Preston
 url: https://rhianpreston.com/
