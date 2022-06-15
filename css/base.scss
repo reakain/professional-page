@@ -7,7 +7,7 @@ body {
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
   margin: 0;
   -webkit-font-smoothing: antialiased;
-  background-color: #EADEDA;
+  background-color: #D7D0C4;
   color: #262522;
 }
 
@@ -17,9 +17,9 @@ a {
 
 .sidebar {
   position: fixed;
-  left: 15px;
-  top: 15px;
-  width: 80px;
+  left: 20px;
+  top: 20px;
+  width: 100px;
   font-family: Helvetica, sans-serif;
   a {
     text-decoration: none;
@@ -37,12 +37,12 @@ a {
     text-transform: uppercase;
     margin: 10px 0 20px 0;
     #fname {
-      font-size: 23px;
+      font-size: 26px;
       letter-spacing: 5px;
       color: black;
     }
     #lname {
-      font-size: 17px;
+      font-size: 20px;
       font-weight: bold;
       letter-spacing: 1px;
       color: black;
@@ -67,7 +67,7 @@ a {
       padding: 3px 0;
       color: black;
       font-weight: bold;
-      font-size: 14px;
+      font-size: 16px;
       display: block;
       &:hover {
         color: #227ce8;
@@ -86,9 +86,10 @@ a {
 
 .content {
   max-width: 700px;
-  margin-left: 130px;
+  margin-left: 150px;
   margin-right: 20px;
   margin-bottom: 50px;
+  margin-top: 30px;
   h1, h2, h3, h4 {
     color: #333;
     font-family: "Yanone Kaffeesatz", Helvetica, sans-serif;
