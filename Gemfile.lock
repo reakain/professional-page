@@ -37,6 +37,7 @@ DEPENDENCIES
   jekyll (~> 3.0.2)
   jekyll-sitemap
   jekyll-watch
+  jekyll-pdf-embed
 
 BUNDLED WITH
    1.11.2
