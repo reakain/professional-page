@@ -14,16 +14,3 @@ I am a robotics PhD student in the [SHARE Lab](https://osusharelab.com/) at Oreg
 # Contact
 
 Email: prestonr < at > oregonstate < dot > edu
-<!--
-<section class="content">
-  <ul class="listing">
-    {% for post in site.posts %}
-      {% unless post.draft %}
-      <li>
-        <span>{{ post.date | date: "%B %e, %Y" }}</span> <a href="{{ post.url }}">{{ post.title }}</a>
-      </li>
-      {% endunless %}
-    {% endfor %}
-  </ul>
-</section>
--->
