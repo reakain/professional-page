@@ -1,0 +1,10 @@
+permalink: /posts/:title
+markdown: kramdown
+
+gems:
+  - jekyll-sitemap
+
+name: Rhian C. Preston
+url: https://rhianpreston.com/
+description: Home page of Rhian C. Preston.
+
