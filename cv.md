@@ -4,4 +4,4 @@ title: CV
 ---
 # CV
 
-{% pdf "{{ site.github.url }}/cv.pdf" %}
+{% pdf "{{ site.github.url }}/cv.pdf" no_link %}
